@@ -1,0 +1,3 @@
+rootProject.name = "CustomGridView"
+include ':app'
+include ':app2'
